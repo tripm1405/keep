@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "il/LLFJKNT3YYnuwxRT9k9FBGd+SeJzT0rcpCufOV7+s6GBMMd5bhl0r9z6CUIxnW8tsT6wCxXHyaddF020O5Q==",
+  "success": true,
+  "projectFilePath": "D:\\p\\Kro\\System.Application\\System.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.15\\microsoft.entityframeworkcore.abstractions.7.0.15.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.15\\microsoft.entityframeworkcore.analyzers.7.0.15.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\KROTOHMAKI\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
